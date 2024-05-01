@@ -18,7 +18,7 @@ function App() {
     {
       image:
         "https://iheartcraftythings.com/wp-content/uploads/2021/04/How-to-Draw-Cartoon-Face-%E2%80%93-Featured-Image.jpg",
-      name: "Jagan",
+      name: "Sathish",
       batch: "B41WE",
     },
   ];
